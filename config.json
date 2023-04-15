@@ -11,7 +11,7 @@
             "settings": {
                 "clients": [
                     {
-                        "id": "de04add9-5c68-8bab-950c-08cd5320df18",
+                        "id": "17f8a5c2-02d8-4920-97f3-13a0c682c3b7",
                         "flow": "xtls-rprx-direct"
                     }
                 ],
@@ -49,7 +49,7 @@
             "settings": {
                 "clients": [
                     {
-                        "id": "de04add9-5c68-8bab-950c-08cd5320df18"
+                        "id": "17f8a5c2-02d8-4920-97f3-13a0c682c3b7"
                     }
                 ],
                 "decryption": "none"
@@ -66,8 +66,8 @@
             "settings": {
                 "clients": [
                     {
-                        "id": "de04add9-5c68-8bab-950c-08cd5320df18",
-                        "level": 0
+                        "id": "17f8a5c2-02d8-4920-97f3-13a0c682c3b7",
+                        "level": 
                     }
                 ],
                 "decryption": "none"
@@ -80,7 +80,7 @@
                 }
             },
             "sniffing": {
-                "enabled": true,
+                "enabled": false,
                 "destOverride": [
                     "http",
                     "tls",
@@ -96,7 +96,7 @@
             "settings": {
                 "clients": [
                     {
-                        "id": "de04add9-5c68-8bab-950c-08cd5320df18",
+                        "id": "17f8a5c2-02d8-4920-97f3-13a0c682c3b7",
                         "alterId": 0
                     }
                 ]
@@ -124,7 +124,7 @@
             "settings": {
                 "clients": [
                     {
-                        "password": "de04add9-5c68-8bab-950c-08cd5320df18"
+                        "password": "17f8a5c2-02d8-4920-97f3-13a0c682c3b7"
                     }
                 ]
             },
@@ -153,7 +153,7 @@
                 "clients": [
                     {
                         "method": "chacha20-ietf-poly1305",
-                        "password": "de04add9-5c68-8bab-950c-08cd5320df18"
+                        "password": "17f8a5c2-02d8-4920-97f3-13a0c682c3b7"
                     }
                 ],
                 "decryption": "none"
